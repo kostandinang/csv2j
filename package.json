@@ -1,0 +1,28 @@
+{
+  "name": "csv2j",
+  "version": "1.0.0",
+  "description": "Exercise (CSV To JSON Parser Parser)",
+  "main": "csv2j.js",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "csvtojson": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kostandinangjellari/ncsv.git"
+  },
+  "keywords": [
+    "csv",
+    "parse"
+  ],
+  "author": "Kostandin Angjellari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kostandinangjellari/ncsv/issues"
+  },
+  "homepage": "https://github.com/kostandinangjellari/ncsv#readme"
+}
