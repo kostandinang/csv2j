@@ -28,7 +28,7 @@ input.on('error', function() {
 //Successful file read
 input.on('open', function() {
 	writeToJSON(input, outputPath, converter);
-})
+});
 
 /**
 * Write converted json input to outputPath
